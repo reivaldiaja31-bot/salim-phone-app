@@ -1,0 +1,10 @@
+{
+  "name": "SALIM PHONE - Manajemen Konter",
+  "short_name": "SALIM PHONE",
+  "description": "Manajemen penjualan, servis, stok, kas, dan laporan konter HP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#1267b1",
+  "icons": []
+}
